@@ -2,7 +2,7 @@
 <img align="right" height="380px" width="380px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODE4MmtsNWYwc3RheHoxNXN0NHZjYjQ5dHk2Zzk0dGxzZngyYW1wbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=unownone&label=Profile%20views&color=9834eb&style=flat" alt="unownone" />     
+  <img src="https://komarev.com/ghpvc/?username=beasroy&label=Profile%20views&color=9834eb&style=flat" alt="unownone" />     
   
   ![GitHub User's stars](https://img.shields.io/github/stars/unownone?style=social) 
   [![GitHub followers](https://img.shields.io/github/followers/unownone?style=social)](https://github.com/beasroy)
